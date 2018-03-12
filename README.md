@@ -1,4 +1,4 @@
-# expensify-react
-Expensify
-\
-## YO MALTA. REDUX + FIREBASE REACT APP
+# Boilerplate
+Boilerplate React (No create-react-app)
+\|/\|
+## REDUX + FIREBASE + ENZYME TEST + BOILERPLATE
